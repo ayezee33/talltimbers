@@ -1,0 +1,10 @@
+body {
+  font-family: 'Crimson Text', serif;
+  background-image: url("../img/topography.png");
+  background-repeat: repeat;
+}
+.brand-primary: #E53A40;
+
+h1 {
+  color: #E53A40;
+}
