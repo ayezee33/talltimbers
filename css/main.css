@@ -3,3 +3,17 @@ body {
   background-image: url("/img/topography.png");
   background-repeat: repeat;
 }
+.hero {
+  color: white;
+  background-image: url("../img/talltimbersbg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 3rem;
+  height: 30vh;
+}
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  display: flex;
+  align-items: center;
+}
